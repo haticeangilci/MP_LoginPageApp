@@ -1,6 +1,3 @@
-package LoginPageApp;
-
-import java.util.Scanner;
 
 /*
 
@@ -28,6 +25,11 @@ Project: Bir siteye üye olma ve giriş yapma sayfası tasarlayınız.
                             : en az bir tane rakam içermeli
                             : en az bir tane sembol içermeli
 */
+package LoginPageApp;
+
+import java.util.Scanner;
+
+
 public class LoginPageApp {
 
     public static void main(String[] args) {
